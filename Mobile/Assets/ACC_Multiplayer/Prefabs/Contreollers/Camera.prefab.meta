@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5b169273fd795d44829a9ad6bb8e14d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/Contreollers/Camera.prefab
+  uploadId: 633115

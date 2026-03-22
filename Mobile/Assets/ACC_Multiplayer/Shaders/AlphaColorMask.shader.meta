@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5283a9d6a46c7c94a997862ab68926eb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Shaders/AlphaColorMask.shader
+  uploadId: 633115

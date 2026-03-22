@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f951d2b6e660544c8e5f94a59e93fa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/Game/Meta/PositioningSystem.cs
+  uploadId: 633115

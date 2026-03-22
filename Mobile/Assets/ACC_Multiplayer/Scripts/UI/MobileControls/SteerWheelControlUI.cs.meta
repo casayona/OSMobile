@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: da72c94d7cba9334197987a8ca201f5b
+timeCreated: 1549690668
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/UI/MobileControls/SteerWheelControlUI.cs
+  uploadId: 633115

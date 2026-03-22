@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8c81db0e527d24acc9bcec04e87781bd
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader
+  uploadId: 633115

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3023143f80410e345aef19db1f82c9ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/Contreollers/FXController.prefab
+  uploadId: 633115

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06f019afbffb1a04b97ef7a5f18e4b38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Animations/UI/SelectCarMenu/SelectCarMenuHide.anim
+  uploadId: 633115

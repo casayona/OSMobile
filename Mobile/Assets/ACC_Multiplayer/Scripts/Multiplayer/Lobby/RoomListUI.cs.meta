@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b56a4b46a556fba4fa2ab2ae22e561fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/Multiplayer/Lobby/RoomListUI.cs
+  uploadId: 633115

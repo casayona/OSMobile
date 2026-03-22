@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 619f7fe2b7f11174385ada6d82482969
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Balance/Settings/SoundSettings.asset
+  uploadId: 633115

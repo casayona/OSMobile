@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: da310021e2a4142429d95c537846dc38
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader
+  uploadId: 633115

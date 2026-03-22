@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42806ebe036da2547bc8c2cdde159ed6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/GameControllers/GameController_Port_Drift.prefab
+  uploadId: 633115

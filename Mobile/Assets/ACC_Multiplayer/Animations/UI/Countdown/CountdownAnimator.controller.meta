@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebb38b40f4ddb8344bb7da16a9289c6f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Animations/UI/Countdown/CountdownAnimator.controller
+  uploadId: 633115

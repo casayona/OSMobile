@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d499f1c62d84cb45885a76cc290e7f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/UI/Drift/DriftPanelUI.cs
+  uploadId: 633115

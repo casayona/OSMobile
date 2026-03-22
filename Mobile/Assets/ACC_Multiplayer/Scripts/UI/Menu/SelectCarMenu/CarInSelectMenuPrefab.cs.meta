@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3f3b0e6ef57d26469a01e12a7ac0a5e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/UI/Menu/SelectCarMenu/CarInSelectMenuPrefab.cs
+  uploadId: 633115

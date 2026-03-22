@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4e9d92028ed5f84fa052ac819835a68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/UI/Menu/MainMenuUI.cs
+  uploadId: 633115

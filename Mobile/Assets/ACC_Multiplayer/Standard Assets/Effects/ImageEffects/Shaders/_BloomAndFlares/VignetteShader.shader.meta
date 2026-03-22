@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 562f620336e024ac99992ff05725a89a
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader
+  uploadId: 633115

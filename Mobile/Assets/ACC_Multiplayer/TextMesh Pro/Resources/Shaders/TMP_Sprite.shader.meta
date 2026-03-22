@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf81c85f95fe47e1a27f6ae460cf182c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+  uploadId: 633115

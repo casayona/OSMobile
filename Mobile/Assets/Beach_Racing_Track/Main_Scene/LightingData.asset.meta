@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e8a2ed8868bd354ea9a8c92f915e930
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118532
+  packageName: Beach Racing Track
+  packageVersion: 2.3
+  assetPath: Assets/Beach_Racing_Track/Main_Scene/LightingData.asset
+  uploadId: 747529

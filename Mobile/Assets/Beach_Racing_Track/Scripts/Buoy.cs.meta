@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d4484979107534c458a1eb1ac06b1a6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118532
+  packageName: Beach Racing Track
+  packageVersion: 2.3
+  assetPath: Assets/Beach_Racing_Track/Scripts/Buoy.cs
+  uploadId: 747529

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26c67b7245085cf438e3d42d50d94f55
+timeCreated: 1425661779
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceRaytrace.cginc
+  uploadId: 633115

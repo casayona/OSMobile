@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03a646b2861514d48a6a642744db3d64
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scenes/Regimes/DriftRegimeScene.unity
+  uploadId: 633115

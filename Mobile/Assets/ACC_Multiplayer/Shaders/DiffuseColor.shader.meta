@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52b53f2d9f23bd04885e5dca99101683
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Shaders/DiffuseColor.shader
+  uploadId: 633115

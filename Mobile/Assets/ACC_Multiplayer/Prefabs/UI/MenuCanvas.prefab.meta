@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b523ec8bdc03234482c1a8b16e0f58f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/UI/MenuCanvas.prefab
+  uploadId: 633115

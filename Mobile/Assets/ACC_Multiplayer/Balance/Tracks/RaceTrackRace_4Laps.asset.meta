@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38fb6495674a94b479d3504636a83253
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Balance/Tracks/RaceTrackRace_4Laps.asset
+  uploadId: 633115

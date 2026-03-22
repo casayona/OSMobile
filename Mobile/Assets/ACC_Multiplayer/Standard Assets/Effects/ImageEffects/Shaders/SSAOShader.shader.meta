@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 43ca18288c424f645aaa1e9e07f04c50
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+  uploadId: 633115

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a172168dfe158e243afcf0da6149554d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Animations/UI/BaseAnimator/BaseShowHideObject.controller
+  uploadId: 633115

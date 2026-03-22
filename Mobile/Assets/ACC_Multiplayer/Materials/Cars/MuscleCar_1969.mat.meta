@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81d260b4ed0763940958850fa11c21a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Materials/Cars/MuscleCar_1969.mat
+  uploadId: 633115

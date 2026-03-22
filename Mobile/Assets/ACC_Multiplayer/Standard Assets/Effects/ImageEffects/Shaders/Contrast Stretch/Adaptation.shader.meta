@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 257bc83cbeb544540bd0e558aa9b1383
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/Contrast
+    Stretch/Adaptation.shader
+  uploadId: 633115

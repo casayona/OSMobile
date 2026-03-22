@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3abebc6b60213a54eaa806f5c3e8b754
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scenes/RaceTrackSettings.lighting
+  uploadId: 633115

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cce573985b48f8c45a375a7cb3ea3c8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Animations/UI/EndGameStatistics/EndGameStart.anim
+  uploadId: 633115

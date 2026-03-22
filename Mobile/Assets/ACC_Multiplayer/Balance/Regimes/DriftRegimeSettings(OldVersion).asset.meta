@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4a56bdc3bd64ef4dbdc6beb0983c891
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Balance/Regimes/DriftRegimeSettings(OldVersion).asset
+  uploadId: 633115

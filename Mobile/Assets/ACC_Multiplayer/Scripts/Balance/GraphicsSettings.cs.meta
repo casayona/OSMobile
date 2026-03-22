@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 82522b5c5b29bb14b856852c7e34eee8
+timeCreated: 1549689968
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/Balance/GraphicsSettings.cs
+  uploadId: 633115

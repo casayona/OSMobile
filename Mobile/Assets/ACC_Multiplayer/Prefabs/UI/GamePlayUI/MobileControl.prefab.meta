@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78411c27f4a83b74b9255de506c0cfd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/UI/GamePlayUI/MobileControl.prefab
+  uploadId: 633115

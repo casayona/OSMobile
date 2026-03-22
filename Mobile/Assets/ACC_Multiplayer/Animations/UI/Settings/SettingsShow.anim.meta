@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7236167cee4c4a94ba1df81978a035fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Animations/UI/Settings/SettingsShow.anim
+  uploadId: 633115

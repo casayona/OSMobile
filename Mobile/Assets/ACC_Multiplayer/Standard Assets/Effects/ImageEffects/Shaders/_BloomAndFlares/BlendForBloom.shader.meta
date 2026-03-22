@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7856cbff0a0ca45c787d5431eb805bb0
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+  uploadId: 633115

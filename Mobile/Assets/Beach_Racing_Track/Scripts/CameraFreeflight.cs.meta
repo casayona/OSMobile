@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fae260d00d2fe8046a30535682af659d
+timeCreated: 1525904501
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118532
+  packageName: Beach Racing Track
+  packageVersion: 2.3
+  assetPath: Assets/Beach_Racing_Track/Scripts/CameraFreeflight.cs
+  uploadId: 747529

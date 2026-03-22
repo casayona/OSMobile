@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbacbf27204cf2d43a0984edf1094a62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Scripts/StateMachineBehaviours/ResetTriggerState.cs
+  uploadId: 633115

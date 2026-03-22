@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c7512dc949eb8f4bb89339777b6b03f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Prefabs/World/Port/Crane.prefab
+  uploadId: 633115

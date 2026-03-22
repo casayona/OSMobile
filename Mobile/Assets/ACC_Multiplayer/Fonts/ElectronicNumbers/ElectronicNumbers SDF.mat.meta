@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 972285a1934f69041834669faa37cd43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155209
+  packageName: Arcade Car Controller Multiplayer
+  packageVersion: 1.5.41
+  assetPath: Assets/ACC_Multiplayer/Fonts/ElectronicNumbers/ElectronicNumbers SDF.mat
+  uploadId: 633115
