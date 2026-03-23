@@ -518,6 +518,13 @@ PrefabInstance:
       propertyPath: LeaderboardsWindow
       value: 
       objectReference: {fileID: 1147943308}
+    - target: {fileID: 114960256197467036, guid: 37a157f7be1cc0d42a5f536fa78e9247,
+        type: 3}
+      propertyPath: m_text
+      value: '
+
+        Zenith Drift X Online Car Racing '
+      objectReference: {fileID: 0}
     - target: {fileID: 223448602290320108, guid: 37a157f7be1cc0d42a5f536fa78e9247,
         type: 3}
       propertyPath: m_Camera
