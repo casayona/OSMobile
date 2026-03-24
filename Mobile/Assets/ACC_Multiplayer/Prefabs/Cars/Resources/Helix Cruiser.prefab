@@ -5881,7 +5881,7 @@ MonoBehaviour:
   COM: {fileID: 5520834795775395943}
   BackFireParticles:
   - {fileID: 8275020875535090933}
-  BaseView: {fileID: 0}
+  BaseView: {fileID: 18653754188779409}
   CarConfig:
     MaxSteerAngle: 38
     DriveType: 2
@@ -5989,7 +5989,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 398d06ec47ad57e4289eeab1daf74507, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Body: {fileID: 5013451913822648482}
+  Body: {fileID: 3172622081300420150}
   MaxAngle: 10
   AngleVelocityMultiplier: 0.2
   RearAngleVelocityMultiplier: 0.4
