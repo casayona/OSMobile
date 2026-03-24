@@ -127226,7 +127226,7 @@ GameObject:
   - component: {fileID: 5278890419889536804}
   - component: {fileID: 1749024056969971714}
   - component: {fileID: 1392466798596778006}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: landscape_main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127260,6 +127260,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GameController_Lago Maggiore
+      objectReference: {fileID: 0}
+    - target: {fileID: 4186315655958711187, guid: ff035a31da2d64241b9688254b7c4103,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4186315655958711187, guid: ff035a31da2d64241b9688254b7c4103,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 377.27
       objectReference: {fileID: 0}
     - target: {fileID: 8212930504117235024, guid: ff035a31da2d64241b9688254b7c4103,
         type: 3}
