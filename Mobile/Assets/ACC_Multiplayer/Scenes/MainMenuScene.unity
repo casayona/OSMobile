@@ -518,13 +518,6 @@ PrefabInstance:
       propertyPath: LeaderboardsWindow
       value: 
       objectReference: {fileID: 1147943308}
-    - target: {fileID: 114960256197467036, guid: 37a157f7be1cc0d42a5f536fa78e9247,
-        type: 3}
-      propertyPath: m_text
-      value: '
-
-        Zenith Drift X Online Car Racing '
-      objectReference: {fileID: 0}
     - target: {fileID: 223448602290320108, guid: 37a157f7be1cc0d42a5f536fa78e9247,
         type: 3}
       propertyPath: m_Camera
@@ -2285,6 +2278,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 872058764155275987, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3606696979398022343, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2409,6 +2407,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Value
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8870623827288658527, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000038146973
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

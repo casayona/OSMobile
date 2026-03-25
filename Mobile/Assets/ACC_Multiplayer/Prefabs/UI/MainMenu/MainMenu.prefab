@@ -1772,7 +1772,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: '
 
-    Pro Drift X Online Car Racing '
+    Zenith Drift X Online Car Racing '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1da221f98e620e244b227b84fd94fae1, type: 2}
   m_sharedMaterial: {fileID: -1337936215541017012, guid: 1da221f98e620e244b227b84fd94fae1,
@@ -2569,7 +2569,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7985397071617067250}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 53278805868088805}
+        m_TargetAssemblyTypeName: SocialMediaHandler, Assembly-CSharp
+        m_MethodName: OpenDiscord
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1641149127136519561
 GameObject:
   m_ObjectHideFlags: 0
@@ -2689,7 +2701,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8825102653781253808}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 53278805868088805}
+        m_TargetAssemblyTypeName: SocialMediaHandler, Assembly-CSharp
+        m_MethodName: OpenYoutube
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &2087322784291513308
 GameObject:
   m_ObjectHideFlags: 0
@@ -2993,6 +3017,7 @@ GameObject:
   - component: {fileID: 9084533058105933753}
   - component: {fileID: 7696838563382501440}
   - component: {fileID: 8521631510612951033}
+  - component: {fileID: 53278805868088805}
   m_Layer: 5
   m_Name: SocialMediaButtons
   m_TagString: Untagged
@@ -3061,6 +3086,18 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &53278805868088805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3606757016808452350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a41a0d2deed014e83fada840bed5c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SocialMediaHandler
 --- !u!1 &4282314901843306090
 GameObject:
   m_ObjectHideFlags: 0
@@ -3393,4 +3430,16 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8073850758066935585}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 53278805868088805}
+        m_TargetAssemblyTypeName: SocialMediaHandler, Assembly-CSharp
+        m_MethodName: OpenInstagram
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

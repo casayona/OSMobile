@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: f1bfb96f7c1424a4cb8336a580c9dc66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_0"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 632
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e8f8f2914fa9a4885438a7f825e56c
+      internalID: 905964070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_1"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 631
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c0861a89fb1141b093e2cfb56fc49
+      internalID: -1040755039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_2"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 632
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebff0207ab669e42809deced88485fe
+      internalID: 993188680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_3"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 632
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faae6056988c8c4ababc7c3885386b3
+      internalID: -1371075089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_4"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 632
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1efdc8ccfcc44dbe7d0ccd7ea9488
+      internalID: -793411831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_5"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 632
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2240299380f35a4fb08eccc3ff9f88e
+      internalID: -550660908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_6"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 631
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85dab9810caf5f4192c92aca55d8b5d
+      internalID: -726730335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_7"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 632
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c10eb694a1784ea38d45f6471ab97
+      internalID: -556586526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_8"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 632
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559833e88c28a74f9080d1896253641
+      internalID: -615404868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_9"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 684
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5375e267abe7d43a3c1899073d9d64
+      internalID: 1918829679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_10"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 632
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f761c0d6c5ef245a389c2b839bca24
+      internalID: 1285624012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_11"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 631
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8193bb57108021649b5cc5d67b02f9b6
+      internalID: 1852539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_12"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614ba034618411409f5323cd1230abe
+      internalID: -396245489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_13"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 632
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33ea6bfb64dee40a48c504b3e8ee48
+      internalID: 631169865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_14"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 631
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5fe432bb6268042a6f2f81e9d7de3d
+      internalID: 354816894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_15"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 631
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b7453a8d8004488e60027cd9c3de8
+      internalID: 2120081766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_16"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 628
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc90bfeac56a5b84aa59037c748cd4c6
+      internalID: 1447250018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_17"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 632
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb730c72d5740499c59896b2ab30bb
+      internalID: -1263168483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_18"
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 631
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c260d0159170124ca7cdd647e1bb5d6
+      internalID: -1327844497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_19"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 632
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c11f1994828184689b6de2e7a52842
+      internalID: 131497083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_20"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 682
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0208f46832bbb04680b15f9be090733
+      internalID: 882221339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_21"
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 631
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8d7bb72b118841888969c46dc31ce
+      internalID: 1619769135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_22"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 686
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaecc294f8a06e4b9f5dd3bffce6b7d
+      internalID: 310483928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_23"
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 665
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c223430355b6dc448846d45e194edb4
+      internalID: -1147257875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_24"
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 632
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f84d9ce216c04096c8d18877b8c2a
+      internalID: -1399021891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_25"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 632
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ccce558b5e0d46820100171811421
+      internalID: -687774646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_26"
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 632
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1c715e207e0144abf480eba5d5601
+      internalID: -1605642517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_27"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 631
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f0dc5aeae6fb478af482b1b9a9d92
+      internalID: -1572270345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_28"
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 631
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23710b3c42743cb488f5aadef8501d17
+      internalID: -1720278711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_29"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 631
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552832f86f2329541b5135f6ff4f07c4
+      internalID: 1596411837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_30"
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 632
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd638cf2d312449a59aced4ebbeca3
+      internalID: 1064585043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_31"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 632
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4c05a9f200d74aaa5c73ff0481f94
+      internalID: 2097487958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_32"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 633
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f741d40dc839e43992ef4b2a3370ee
+      internalID: -749214143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_33"
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 633
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9b373cab8966439061ffc018f6ae9
+      internalID: 570375134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_34"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 633
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9baf978214e94c88f89eae581136c
+      internalID: -2057377621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_35"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 631
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3fc96b3d347da40b0075e7cb11d2fc
+      internalID: -1231259705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_36"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 418
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf69665c7a6894db158459fabe3461
+      internalID: -1870165466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_37"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 85
+        width: 396
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1976cffaa544a448facbe124a68bf8
+      internalID: -1499971815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_38"
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 85
+        width: 382
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995269c2f56a994a8584b222cae4e7a
+      internalID: -184659150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_39"
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 472
+        width: 171
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6cb7bc87b7544b83136f592d4915c
+      internalID: -943931518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_40"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 202
+        width: 172
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a29a059ca82494f871e930524ba461
+      internalID: 22524476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_41"
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 270
+        width: 135
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb8aaed9fc97047b03f4fed11173c0
+      internalID: -661631435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_42"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 176
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9973e7909936da49bb08e183e0411c2
+      internalID: 307439135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_43"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 42
+        width: 248
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2844546b62ad4cb078b203f4f3366
+      internalID: -386218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7db1ca29d3027d749b0aec0a79c73b7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_0": 905964070
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_1": -1040755039
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_10": 1285624012
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_11": 1852539035
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_12": -396245489
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_13": 631169865
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_14": 354816894
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_15": 2120081766
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_16": 1447250018
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_17": -1263168483
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_18": -1327844497
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_19": 131497083
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_2": 993188680
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_20": 882221339
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_21": 1619769135
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_22": 310483928
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_23": -1147257875
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_24": -1399021891
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_25": -687774646
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_26": -1605642517
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_27": -1572270345
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_28": -1720278711
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_29": 1596411837
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_3": -1371075089
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_30": 1064585043
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_31": 2097487958
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_32": -749214143
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_33": 570375134
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_34": -2057377621
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_35": -1231259705
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_36": -1870165466
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_37": -1499971815
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_38": -184659150
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_39": -943931518
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_4": -793411831
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_40": 22524476
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_41": -661631435
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_42": 307439135
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_43": -386218791
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_5": -550660908
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_6": -726730335
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_7": -556586526
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_8": -615404868
+      "Ads\u0131z tasar\u0131m - 2026-03-25T011029.386_9": 1918829679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

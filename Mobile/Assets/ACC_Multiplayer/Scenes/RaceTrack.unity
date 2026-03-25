@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 0.85
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 4cc39970324ef654c9f2bb5c3bde7328, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 0}
+  m_Sun: {fileID: 389067249}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -96,7 +96,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: 25256bc2c5b74e6469a8a87723909146,
     type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 5190bde6b6f10f14d87fbf126f377dc4,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 3abebc6b60213a54eaa806f5c3e8b754,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -53967,6 +53967,11 @@ PrefabInstance:
     - target: {fileID: 4894286634113140, guid: 771c67a3bcfd2e845a89c1fc3bbe5047, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114443030886455856, guid: 771c67a3bcfd2e845a89c1fc3bbe5047,
+        type: 3}
+      propertyPath: sceneViewId
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114443030886455856, guid: 771c67a3bcfd2e845a89c1fc3bbe5047,
         type: 3}
@@ -126065,8 +126070,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1948672539}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.16242683, y: -0.7462076, z: 0.19715522, w: 0.6147533}
-  m_LocalPosition: {x: 6.218609, y: 4.0081844, z: -122.59604}
+  m_LocalRotation: {x: 0.030805111, y: 0.96813816, z: -0.19756582, w: 0.15075618}
+  m_LocalPosition: {x: -2.3848183, y: 6.456697, z: -111.77742}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
