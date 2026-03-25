@@ -1253,7 +1253,7 @@ Light:
   serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.8
+  m_Intensity: 1.2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2268,20 +2268,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Leaderboards
       objectReference: {fileID: 0}
-    - target: {fileID: 872058764155275987, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+    - target: {fileID: 691342140857145084, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
-      propertyPath: m_AnchorMax.x
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 872058764155275987, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 872058764155275987, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 872058764155275987, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_AnchorMin.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1812294330445079639, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_Spacing
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 3606696979398022343, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
@@ -2383,26 +2393,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3994222203987151340, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_HorizontalFit
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7126552558672018744, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7126552558672018744, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7126552558672018744, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 7318021016913171628, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 427109818}
+    - target: {fileID: 8389380387827418060, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_Elasticity
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389380387827418060, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
+        type: 3}
+      propertyPath: m_Horizontal
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8402204539764730211, guid: e1c1d6df45bb377469faeb3ed1ff9b68,
         type: 3}
       propertyPath: m_Value
