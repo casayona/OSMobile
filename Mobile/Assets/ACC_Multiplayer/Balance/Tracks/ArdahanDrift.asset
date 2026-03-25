@@ -17,7 +17,7 @@ MonoBehaviour:
   CompleteTrackForUnlock: {fileID: 0}
   ShowProperty: 0
   m_TrackName: Ardahan
-  m_TrackIcon: {fileID: 21300000, guid: a7e4e1499ea4cf747ae40ebe7d84a1cf, type: 3}
+  m_TrackIcon: {fileID: 21300000, guid: a2ffd144898efb44383bc2310d64aab6, type: 3}
   m_SceneName: Ardahan
   m_GameController: {fileID: 7655094674458413690, guid: 9ffe713f6b0b52b4c97336515c2c8d69,
     type: 3}

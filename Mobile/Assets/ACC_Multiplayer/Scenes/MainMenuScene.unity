@@ -623,6 +623,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4251493611916948378, guid: 37a157f7be1cc0d42a5f536fa78e9247,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -499.99997
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2003,6 +2008,8 @@ MonoBehaviour:
     type: 3}
   rowsParent: {fileID: 900843324}
   currencyCode: GD
+  pcIcon: {fileID: 1418102062, guid: 8cd18e5677f744743aaa7a6aa822dbfc, type: 3}
+  mobileIcon: {fileID: -143443101, guid: 8cd18e5677f744743aaa7a6aa822dbfc, type: 3}
 --- !u!1 &1759417722
 GameObject:
   m_ObjectHideFlags: 0

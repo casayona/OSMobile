@@ -3,7 +3,8 @@ using PlayFab.ClientModels;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using UnityEngine.SceneManagement; // Sahne geçiþlerini kontrol etmek için eklendi
+using UnityEngine.SceneManagement;
+using UnityEngine.UI; // Sahne geçiþlerini kontrol etmek için eklendi
 
 public class PlayfabManager : MonoBehaviour
 {
@@ -15,6 +16,11 @@ public class PlayfabManager : MonoBehaviour
 
     [Header("Currency Settings")]
     public string currencyCode = "GD";
+
+    [Header("Platform Icons")]
+    public Sprite pcIcon;
+    public Sprite mobileIcon;
+
 
     private void Awake()
     {
@@ -78,6 +84,17 @@ public class PlayfabManager : MonoBehaviour
     void OnLoginSuccess(LoginResult result)
     {
         Debug.Log("PlayFab Giriþ baþarýlý!");
+
+        // Platformu tespit et
+        string platform = "PC";
+        if (Application.isMobilePlatform) platform = "Mobile";
+
+        // Bunu PlayFab profilindeki AvatarUrl kýsmýna yazalým (en pratik yol bu)
+        var request = new UpdateAvatarUrlRequest
+        {
+            ImageUrl = platform
+        };
+        PlayFabClientAPI.UpdateAvatarUrl(request, res => Debug.Log("Platform kaydedildi: " + platform), OnError);
         GetUserMoney();
         GetLeaderboard();
     }
@@ -136,7 +153,12 @@ public class PlayfabManager : MonoBehaviour
         {
             StatisticName = "DriftScore",
             StartPosition = 0,
-            MaxResultsCount = 10
+            MaxResultsCount = 10,
+            // BURASI ÇOK ÖNEMLÝ: Profil bilgilerini de istiyoruz
+            ProfileConstraints = new PlayerProfileViewConstraints
+            {
+                ShowAvatarUrl = true
+            }
         };
         PlayFabClientAPI.GetLeaderboard(request, OnGetLeaderboardResult, OnError);
     }
@@ -159,12 +181,23 @@ public class PlayfabManager : MonoBehaviour
         {
             GameObject newRow = Instantiate(rowPrefab, rowsParent);
             TMP_Text[] texts = newRow.GetComponentsInChildren<TMP_Text>();
+            Image iconImage = newRow.transform.Find("PlatformIcon").GetComponent<Image>();
 
             if (texts.Length >= 3)
             {
                 texts[0].text = (item.Position + 1).ToString();
                 texts[1].text = string.IsNullOrEmpty(item.DisplayName) ? "Adsýz Oyuncu" : item.DisplayName;
                 texts[2].text = item.StatValue.ToString();
+            }
+
+            // Platform ikonunu ayarla
+            if (iconImage != null && item.Profile != null)
+            {
+                string platform = item.Profile.AvatarUrl;
+                if (platform == "Mobile")
+                    iconImage.sprite = mobileIcon;
+                else
+                    iconImage.sprite = pcIcon;
             }
         }
     }
